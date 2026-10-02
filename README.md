@@ -29,7 +29,7 @@ https://ipinfo-preview-no-production-environment.appshub.cc/json
 
 你可以选择以下任意一种方式将本项目部署到你的 Cloudflare 账户：
 
-### 方案 A：一键快速部署（推荐）
+### 方案 A：一键快速部署（推荐）【.workers.dev域名已被墙，因此国内IP识别不出】
 
 点击下方部署按钮，按照引导授权 GitHub 并绑定 Cloudflare 账号，系统将自动 Fork 本仓库并完成首次部署上线：
 
@@ -37,7 +37,7 @@ https://ipinfo-preview-no-production-environment.appshub.cc/json
 
 ---
 
-### 方案 B：Fork 本仓库并关联 Cloudflare（用于后续可能的更新）
+### 方案 B：Fork 本仓库并关联 Cloudflare（用于后续可能的更新）【.workers.dev域名已被墙，因此国内IP识别不出】
 
 1. 点击本页面右上角的 **Fork** 按钮，将本项目 Fork 到你的个人账号下。
 2. 登录 [Cloudflare 控制台](https://dash.cloudflare.com/)。
