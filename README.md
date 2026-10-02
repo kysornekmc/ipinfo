@@ -37,7 +37,7 @@ https://ipinfo-preview-no-production-environment.appshub.cc/json
 
 ---
 
-### 方案 B：Fork 本仓库并关联 Cloudflare（用于后续可能的更新）【.workers.dev域名已被墙，因此国内IP识别不出】
+### 方案 B：Fork 本仓库并关联 Cloudflare（用于后续可能的更新）【.workers.dev域名已被墙，因此国内IP识别不出，需要绑定你自己的独立域名】
 
 1. 点击本页面右上角的 **Fork** 按钮，将本项目 Fork 到你的个人账号下。
 2. 登录 [Cloudflare 控制台](https://dash.cloudflare.com/)。
